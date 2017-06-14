@@ -1,0 +1,16 @@
+Programming Language Objectives
+
+1. Easily accessible to a complete novice
+2. Easier constructs. Ease of coding is paramount 
+3. Object Oriented. But no unexpected behaviour like in Python
+4. Readability
+
+Personal Goal - Satisfaction and learning!
+
+Bottomline - Prerana should be able to code using it!
+
+Technical Stuff
+
+Interpreted vs Compiled ? - TBD
+Types - Implicit vs Explicit ? Implicit for now
+Only one float type and one integer type - Compiler/Runtime Environment should efficiently manage what the type of this variable actually is! - Ambitious, but interesting
