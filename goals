@@ -19,3 +19,8 @@ Only one float type and one integer type - Compiler/Runtime Environment should e
 
 No import statements. Compiler should automatically identify which libraries are being used by the code in the program (resolve conflicts, with 
 user intervention if necessary i.e. function with same name defined in multiple libraries and used in the same program. ) and include them.
+
+Function calls - Call by value vs call by reference ?
+
+Implicit string to number and number to string conversion wherever appropriate. Might need some mechanism to differentiate between whether a
+string that consists only of numbers is being used as a string or as a number!
